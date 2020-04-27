@@ -1,4 +1,3 @@
-import _ from 'lodash';
 import envalid from 'envalid';
 const { str, num, bool } = envalid;
 
