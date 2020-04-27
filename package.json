@@ -30,7 +30,7 @@
     "lodash": "4.17.4",
     "moment": "2.24.0",
     "mongodb": "3.5.5",
-    "mongoose": "5.0.1",
+    "mongoose": "5.7.5",
     "mongoose-type-email": "1.0.12",
     "nocache": "2.0.0",
     "path": "0.12.7",
